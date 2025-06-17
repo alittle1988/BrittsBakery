@@ -1,0 +1,25 @@
+/* Header Section */
+
+.title {
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+    cursor: pointer;
+  }
+  
+
+  .navLink {
+    color: black;
+    transition: transform 0.3s ease;
+    display: inline-block;
+  }
+
+  .navLink:hover {
+    color: blue;
+    transform: scale(1.2);
+  }
+
+
+  /* Gallery Section */
+
+ 
